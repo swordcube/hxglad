@@ -4,6 +4,8 @@ Haxe/hxcpp @:native bindings for [Glad](https://glad.dav1d.de/).
 
 Click me to get to [Glad's GitHub Page](https://github.com/Dav1dde/glad)
 
+These bindings came from [Blueprint](https://github.com/BlueprintFramework-Team/Blueprint), Go check it out!
+
 ---
 
 This library only works with the Haxe `cpp` target via `hxcpp`.
