@@ -15,7 +15,7 @@ This library only works with the Haxe `cpp` target via `hxcpp`.
 Install through the haxelib
 
 ```
-haxelib install hxgit
+haxelib install hxglad
 ```
 
 or with git for the latest potentially unstable updates.
