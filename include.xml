@@ -1,0 +1,7 @@
+<xml>
+    <files id="haxe">
+        <compilerflag value="-I${haxelib:hxglad}/vendor/include"/>
+        <compilerflag value="-I${haxelib:hxglad}"/>
+        <file name="${haxelib:hxglad}/vendor/src/glad.c" />
+    </files>
+</xml>

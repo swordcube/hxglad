@@ -1,0 +1,14 @@
+{
+    "name": "hxglad",
+    "url" : "https://github.com/swordcube/hxglad",
+    "license": "MIT",
+    "tags": ["haxe", "opengl", "gl", "glad", "hxglad", "cpp", "binds", "bindings", "native"],
+    "description": "A haxelib containing hxcpp bindings for Glad.",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "Initial release",
+    "contributors": ["swordcube"],
+    "dependencies": {
+        "hxcpp": ""
+    }
+}
